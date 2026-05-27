@@ -20,8 +20,6 @@
 #   2. grep '^>' selects only header lines (lines starting with >)
 #   3. The -h flag suppresses filename prefixes in grep output
 #   4. sed removes the leading ">" from each line
-#
-# Origin: fastatools repository (ALG course, Day 7)
 # =============================================================================
 
 FOLDER="${1:-.}"

@@ -19,8 +19,6 @@
 #   -type f restricts to regular files (not directories)
 #   -name matches filename patterns
 #   -o means OR (logical operator in find)
-#
-# Origin: fastatools repository (ALG course, Day 4/5)
 # =============================================================================
 
 FOLDER="${1:-.}"

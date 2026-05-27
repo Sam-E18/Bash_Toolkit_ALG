@@ -21,8 +21,6 @@
 #   - Total unique FASTA IDs across all files
 #   - Per file: symlink status, sequence count, total sequence length,
 #     nucleotide/amino acid type detection, and optional content preview
-#
-# Origin: ALG course midterm assignment (fastascan.sh + fastascan.ai.sh)
 # =============================================================================
 
 # Set folder and line count with defaults
